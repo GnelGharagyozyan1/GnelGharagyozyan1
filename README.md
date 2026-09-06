@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Gnel </h1>
-<h3 align="center">QA automation specialist with 5 years of experience</h3>
+<h3 align="center">QA automation specialist with 7 years of experience</h3>
 
 
 
